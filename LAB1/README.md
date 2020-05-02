@@ -34,7 +34,7 @@
 	  <li>Чи можливе виникнення колізій на комутаторі (switch)? Чому? 
 	<b>Так, можливе</b></li>
 	  <li>Зайдіть у командне вікно комутатора та введіть наступні команди <p>Switch> enable</p>
-<p>Switch# show mac-address-table</p> <b>Результат виконання команди:</b> <img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB1/3.e.png"> </li>
+<p>Switch# show mac-address-table</p> <b>Результат виконання команди:</b> <p><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB1/3.e.png"></p> </li>
 	  <li></li>
   </ul>	
 </ol>
