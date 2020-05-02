@@ -6,9 +6,16 @@
 <li>Скласти схему мережі у Packet Tracer та перейти у Simulation mode. </li>
 <img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB1/network%20diagram.png" align="center">
 <li>Запустити команду ping між комп’ютерами що під’єднані до повторювача (hub) та прослідкувати передачу пакетів між ними:</li>
-<ul>
-<li>Кому належить (якому пристрою) MAC адреса призначення кадру (destination МАС)? 
-- Належить пристрою який отримує пакет
-</li>  
-</ul>
+  <ul>
+    <li>Кому належить (якому пристрою) MAC адреса призначення кадру (destination МАС)? 
+  - Належить пристрою який отримує пакет
+    </li> 
+  <li></li> 
+  <li></li> 
+  <li></li> 
+  <li></li>
+  <li></li>
+  <li></li>
+ 
+  </ul>
 </ol>
