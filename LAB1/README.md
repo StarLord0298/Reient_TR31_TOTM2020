@@ -35,6 +35,7 @@
 	<b>Так, можливе</b></li>
 	  <li>Зайдіть у командне вікно комутатора та введіть наступні команди <p>Switch> enable</p>
 <p>Switch# show mac-address-table</p> <b>Результат виконання команди:</b> <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB1/3.e.png" align="center"></p> </li>
-	  <li></li>
+	  <li>Чи можливо що декілька МАС адрес прив’язані до одного порту в МАС таблиці комутатора? Чому і що це за адреси? 
+	<b>Ні неможливо, тому що це фізична адреса пристрою</b></li>
   </ul>	
 </ol>
