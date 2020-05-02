@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB1/table.css">
 <h1 align="center">Звіт до лабораторної роботи №1</h1> <br>
 <strong>Тема:</strong> Дослідження роботи мережі згідно моделі OSI.<br>
 <strong>Мета:</strong> Дослідити роботу мережевих пристроїв та прослідкувати як опрацьовуються дані на різних рівнях моделі OSI.<br>
