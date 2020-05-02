@@ -4,7 +4,7 @@
 <h2 align="center">Виконання роботи</h2>
 <ol>
 <li>Скласти схему мережі у Packet Tracer та перейти у Simulation mode. </li>
-
+<img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB1/network%20diagram.png" align="center">
 
 
 </ol>
