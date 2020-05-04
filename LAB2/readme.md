@@ -20,7 +20,14 @@
   <li>За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={7,15} та записати його матрицю суміжності.</li>
   <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB2/img/4.png"></p>
   <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB2/img/5.png"></p>
-  
-  
+              <ul>
+              <li>Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей? 
+                <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB2/img/6.png"></p></li> 
+                <li>Як зміниться топологія графа (структурні зв’язки), якщо всі елементи над або під діагоналлю перетворити в 1? Або 0?                    <p>Всi елементи над головною дiагоналлю перетворюємо в 0</p>  <p align="center"><img                 src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB2/img/7.png"></p></li>
+               </ul>
+  <li>3)	За допомогою лабораторного макету побудувати випадковий орієнтований граф G={5,10} та записати його матрицю відповідностей (інцедентності).
+  <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB2/img/8.png"></p>
+  </li>
+              
   
    </ol>
