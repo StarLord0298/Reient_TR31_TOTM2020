@@ -10,9 +10,17 @@
   <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/3.png"></p><p align="center"> <p align="center">Обхід в ширину. Коренева вершина – 1</p>
  <li>Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому?  <p><b>Топології схожі, а також ранги для для двох вершин будуть однакові.</b></p></li>
  <li>Побудувати дерево за алгоритмом обходу в глибину (DFS); (для 2-х різних вершин)
- <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/4.png"></p><p align="center">Обхід в глибину. Коренева вершина – 1</p></li>
+ <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/4.png"></p><p align="center">Обхід в глибину. Коренева вершина – 1</p>
+   <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/5.png"></p> <p align="center">Обхід в глибину. Коренева вершина – 5</p>
+  </li>
+  <li>Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому? <p><b>Топології будуть відрізнятися, а також їхні ваги будуть різні.</b></p></li>
  </ul>
-
+  <li>За допомогою лабораторного макету побудувати випадковий орієнтований граф G={6,10}
+    <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/6.png"></p>
+  </li>
+  <ul>
+    <li>Побудувати дерево за алгоритмом обходу в ширину (BFS) <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/7.png"></p><p align="center">Обхід графа в ширину. Коренева вершина – 6</p></li>
+  </ul>
 
 
 
