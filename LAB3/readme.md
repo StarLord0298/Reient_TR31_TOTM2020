@@ -26,7 +26,9 @@
     <li>Побудувати дерево за алгоритмом обходу в глибину (DFS)<p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/8.png"></p></li>
     </ul>
   <li>Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9} <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/9.png"></p> <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/10.png"></p> <p align="center">Дерево шляхів рангом r=4</p></li>
-
+  <li>Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу 
+    <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/11.png"></p> <p align="center">Графічне представлення графа</p>
+  </li>
 
 
 </ol>
