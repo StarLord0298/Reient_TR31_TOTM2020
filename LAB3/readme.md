@@ -30,3 +30,4 @@
     <p align="center"><img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/11.png"></p> <p align="center">Графічне представлення графа</p> <p align="center"> <img src="https://github.com/StarLord0298/Reient_TR31_TOTM2020/blob/master/LAB3/img/12.png"> </p> <p align="center">Мінімальне зв’язне дерево графа з вагою 29</p>
   </li>
 </ol>
+<strong>Висновок:</strong>на даній лабораторній роботі я освоїв способи побудови дерева шляхів і мінімального зв’язного дерева для різних графів.  В результаті виконання лабораторної роботи досягнуто мети, труднощів не виникло та вдалося виконати всі поставлені завдання.
